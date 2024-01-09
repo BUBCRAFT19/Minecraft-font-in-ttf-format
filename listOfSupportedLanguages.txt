@@ -1,0 +1,112 @@
+Afrikaans
+Aghem
+Akan
+Albanian
+Asu
+Bafia
+Basaa
+Basque
+Bemba
+Bena
+Breton
+Catalan
+Chiga
+Colognian
+Cornish
+Croatian
+Czech
+Danish
+Duala
+Dutch
+Embu
+English
+Esperanto
+Estonian
+Ewondo
+Faroese
+Filipino
+Finnish
+French
+Friulian
+Fulah
+Galician
+Ganda
+German
+Gusii
+Hawaiian
+Hungarian
+Icelandic
+Inari Sami
+Indonesian
+Irish
+Italian
+Jola-Fonyi
+Kabuverdianu
+Kako
+Kalaallisut
+Kalenjin
+Kamba
+Kikuyu
+Kinyarwanda
+Kwasio
+Lakota
+Langi
+Latvian
+Lingala
+Lithuanian
+Lower Sorbian
+Luba-Katanga
+Luo
+Luxembourgish
+Luyia
+Machame
+Makhuwa-Meetto
+Makonde
+Malagasy
+Maltese
+Manx
+Masai
+Meru
+MetaʼMorisyen
+Nama
+Northern Sami
+North Ndebele
+Norwegian Bokmål
+Norwegian Nynorsk
+Nuer
+Nyankole
+Oromo
+Polish
+Portuguese
+Quechua
+Romanian
+Romansh
+Rombo
+Rundi
+Rwa
+Samburu
+Sango
+Sangu
+Scottish Gaelic
+Sena
+Serbian
+Shambala
+Shona
+Slovak
+Soga
+Somali
+Spanish
+Swahili
+Swedish
+Swiss German
+Taita
+Teso
+Tongan
+Turkish
+Upper Sorbian
+Uzbek (Latin)
+Volapük
+Vunjo
+Walser
+Yangben
+Zulu
