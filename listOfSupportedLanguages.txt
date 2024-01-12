@@ -1,8 +1,8 @@
-Armenian
 Afrikaans
 Aghem
 Akan
 Albanian
+Armenian
 Asu
 Azerbaijani
 Bafia
@@ -41,6 +41,7 @@ German
 Greek
 Gusii
 Hawaiian
+Hebrew
 Hungarian
 Icelandic
 Inari Sami
@@ -123,4 +124,5 @@ Volapük
 Vunjo
 Walser
 Yangben
+Yiddish
 Zulu
