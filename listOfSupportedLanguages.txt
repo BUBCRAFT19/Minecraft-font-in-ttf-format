@@ -9,9 +9,12 @@ Bulgarian
 Catalan
 Croatian
 Czech
+Eastern Syriac
 English
 Esperanto
+Estrangela
 French
+Garshuni (Arabic)
 German
 Greek
 Greenlandic
@@ -29,6 +32,7 @@ Lithuanian
 Macedonian
 Maltese
 Mordvin
+Neo-Aramaic
 Northern Sami
 Pan-Nigerian
 Pashto
@@ -41,6 +45,7 @@ Romanian
 Russian
 Serbian
 Serbian
+Serto or West Syriac
 Sindhi
 Slovak
 Slovene
