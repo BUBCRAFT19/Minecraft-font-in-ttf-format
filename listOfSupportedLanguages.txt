@@ -1,31 +1,21 @@
-Armenian
-Azerbaijani
-Belarusian
-Bosnian
-Bulgarian
-Chechen
-Macedonian
-Ossetic
-Russian
-Sakha
-Serbian
-Ukrainian
-Uzbek
-Greek
-Hebrew
-Yiddish
 Afrikaans
 Aghem
 Akan
 Albanian
+Armenian
 Asu
+Azerbaijani
 Bafia
 Basaa
 Basque
+Belarusian
 Bemba
 Bena
+Bosnian
 Breton
+Bulgarian
 Catalan
+Chechen
 Chiga
 Colognian
 Cornish
@@ -48,8 +38,10 @@ Fulah
 Galician
 Ganda
 German
+Greek
 Gusii
 Hawaiian
+Hebrew
 Hungarian
 Icelandic
 Inari Sami
@@ -75,6 +67,7 @@ Luba-Katanga
 Luo
 Luxembourgish
 Luyia
+Macedonian
 Machame
 Makhuwa-Meetto
 Makonde
@@ -85,13 +78,14 @@ Masai
 Meru
 MetaʼMorisyen
 Nama
-Northern Sami
 North Ndebele
+Northern Sami
 Norwegian Bokmål
 Norwegian Nynorsk
 Nuer
 Nyankole
 Oromo
+Ossetic
 Polish
 Portuguese
 Quechua
@@ -99,12 +93,15 @@ Romanian
 Romansh
 Rombo
 Rundi
+Russian
 Rwa
+Sakha
 Samburu
 Sango
 Sangu
 Scottish Gaelic
 Sena
+Serbian
 Serbian
 Shambala
 Shona
@@ -119,10 +116,13 @@ Taita
 Teso
 Tongan
 Turkish
+Ukrainian
 Upper Sorbian
+Uzbek
 Uzbek (Latin)
 Volapük
 Vunjo
 Walser
 Yangben
+Yiddish
 Zulu
