@@ -11,6 +11,7 @@ Basque
 Belarusian
 Bemba
 Bena
+Bodo
 Bosnian
 Breton
 Bulgarian
@@ -42,6 +43,7 @@ Greek
 Gusii
 Hawaiian
 Hebrew
+Hindi
 Hungarian
 Icelandic
 Inari Sami
@@ -56,6 +58,7 @@ Kalenjin
 Kamba
 Kikuyu
 Kinyarwanda
+Konkani
 Kwasio
 Lakota
 Langi
@@ -74,10 +77,12 @@ Makonde
 Malagasy
 Maltese
 Manx
+Marathi
 Masai
 Meru
 MetaʼMorisyen
 Nama
+Nepali
 North Ndebele
 Northern Sami
 Norwegian Bokmål
