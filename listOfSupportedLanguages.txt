@@ -3,6 +3,7 @@ Aghem
 Akan
 Albanian
 Armenian
+Assamese
 Asu
 Azerbaijani
 Bafia
@@ -11,6 +12,7 @@ Basque
 Belarusian
 Bemba
 Bena
+Bengali
 Bodo
 Bosnian
 Breton
