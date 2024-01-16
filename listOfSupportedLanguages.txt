@@ -95,6 +95,7 @@ Oromo
 Ossetic
 Polish
 Portuguese
+Punjabi (Gurmukhi)
 Quechua
 Romanian
 Romansh
