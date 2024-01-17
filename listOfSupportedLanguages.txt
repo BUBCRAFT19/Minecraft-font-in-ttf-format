@@ -91,6 +91,7 @@ Norwegian Bokmål
 Norwegian Nynorsk
 Nuer
 Nyankole
+Oriya
 Oromo
 Ossetic
 Polish
