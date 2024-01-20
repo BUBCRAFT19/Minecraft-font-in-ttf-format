@@ -123,6 +123,7 @@ Swedish
 Swiss German
 Taita
 Tamil
+Telugu
 Teso
 Tongan
 Turkish
