@@ -27,6 +27,7 @@ Czech
 Danish
 Duala
 Dutch
+Dzongkha
 Embu
 English
 Esperanto
@@ -130,6 +131,7 @@ Tamil
 Telugu
 Teso
 Thai
+Tibetan
 Tongan
 Turkish
 Ukrainian
