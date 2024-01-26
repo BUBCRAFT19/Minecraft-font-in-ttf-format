@@ -42,6 +42,7 @@ Friulian
 Fulah
 Galician
 Ganda
+Georgian
 German
 Greek
 Gusii
